@@ -12,3 +12,8 @@ Fetch all of the branches of the original repo:
 git fetch upstream
 ```
 
+To rewrite any commits on top of the master branch:
+
+```
+git rebase upstream/master
+```
