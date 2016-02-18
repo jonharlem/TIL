@@ -28,5 +28,5 @@ _4 TILs and counting..._
 ---
 ###GitHub
 
--[Update a Forked GitHub Repository](GitHub/updating-forked-repo.md)
+- [Update a Forked GitHub Repository](GitHub/updating-forked-repo.md)
 
