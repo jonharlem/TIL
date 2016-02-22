@@ -13,7 +13,7 @@ _6 TILs and counting..._
 * [Javascript](#javascript)
 * [Linux](#linux)
 * [GitHub](#github)
-* [Sublime Text](#sublimetext)
+* [Sublime Text](#sublime%20text)
 
 ---
 ###Javascript
