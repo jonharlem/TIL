@@ -5,7 +5,7 @@ Collection of small write-ups about the things I learn day-to-day. These things 
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) who shamelessly took the idea from [thoughtbot/til](https://github.com/thoughtbot/til).
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 ### Categories
@@ -29,4 +29,5 @@ _4 TILs and counting..._
 ###GitHub
 
 - [Update a Forked GitHub Repository](GitHub/updating-forked-repo.md)
+- [Cloning All Remote Branches](GitHub/clone-all-branches.md)
 
