@@ -5,7 +5,7 @@ Collection of small write-ups about the things I learn day-to-day. These things 
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) who shamelessly took the idea from [thoughtbot/til](https://github.com/thoughtbot/til).
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 ### Categories
