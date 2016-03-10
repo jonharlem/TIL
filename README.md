@@ -5,7 +5,7 @@ Collection of small write-ups about the things I learn day-to-day. These things 
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) who shamelessly took the idea from [thoughtbot/til](https://github.com/thoughtbot/til).
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 ### Categories
@@ -14,6 +14,7 @@ _7 TILs and counting..._
 * [Linux](#linux)
 * [GitHub](#github)
 * [Sublime Text](#sublime-text)
+* [HTML](#html)
 
 ---
 ###Javascript
@@ -37,3 +38,8 @@ _7 TILs and counting..._
 ###Sublime Text
 
 * [Infinite Scrolling](SublimeText/infinite-scroll.md)
+
+---
+###HTML
+
+- [What does doctype do?](Html/doctype.md)
