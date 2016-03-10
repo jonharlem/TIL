@@ -43,3 +43,4 @@ _8 TILs and counting..._
 ###HTML
 
 - [What does doctype do?](Html/doctype.md)
+- [What does CORS stand for and what issue does it address?](Html/CORS.md)
