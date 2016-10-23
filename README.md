@@ -5,7 +5,7 @@ Collection of small write-ups about the things I learn day-to-day. These things 
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) who shamelessly took the idea from [thoughtbot/til](https://github.com/thoughtbot/til).
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 ### Categories
@@ -27,6 +27,7 @@ _9 TILs and counting..._
 ###Linux
 
 - [Updating and Upgrading Linux Software](linux/updating-upgrading-linux.md)
+- [Intro to Linux Servers](linux/linux-servers.md)
 
 ---
 ###GitHub
